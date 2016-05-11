@@ -1,4 +1,4 @@
-# Status Bar Color Cordova Plugin For Android Lollipop
+# Task Description Bar Color Cordova Plugin For Android Lollipop
 
 ## Installation
 ### Prerequsites
