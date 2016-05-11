@@ -13,7 +13,7 @@ The plugin supports any string from [android.graphics.Color.parseColor()](http:/
 
 set the preference `StatusBarBackgroundColor` ([also used by cordova-plugin-statusbar](https://github.com/apache/cordova-plugin-statusbar/blob/master/doc/index.md#preferences))
 ``` xml
-<preference name="StatusBarBackgroundColor" value="#BD3138" />
+<preference name="TaskDescriptionBarColor" value="#BD3138" />
 ```
 
 ## License
