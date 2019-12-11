@@ -3,14 +3,14 @@
   "version": "0.0.1",
   "description": "Change the status bar color in Android Lollipop",
   "cordova": {
-    "id": "com.internrocket.plugins.statusbarcolor",
+    "id": "com.jptrainor.plugins.statusbarcolor",
     "platforms": [
       "android"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/internrocket/cordova-plugin-StatusBarColor.git"
+    "url": "git+https://github.com/jptrainor/cordova-plugin-StatusBarColor.git"
   },
   "keywords": [
     "android",
@@ -28,7 +28,7 @@
   "author": "BrainBacon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/internrocket/cordova-plugin-StatusBarColor/issues"
+    "url": "https://github.com/jptrainor/cordova-plugin-StatusBarColor/issues"
   },
-  "homepage": "https://github.com/internrocket/cordova-plugin-StatusBarColor#readme"
+  "homepage": "https://github.com/jptrainor/cordova-plugin-StatusBarColor#readme"
 }

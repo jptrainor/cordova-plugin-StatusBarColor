@@ -11,10 +11,10 @@
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="androidstatusbarcolor">
-                <param name="android-package" value="com.internrocket.plugins.statusbarcolor.StatusBarColor"/>
+                <param name="android-package" value="com.jptrainor.plugins.statusbarcolor.StatusBarColor"/>
                 <param name="onload" value="true" />
             </feature>
         </config-file>
-        <source-file src="src/android/StatusBarColor.java" target-dir="src/com/internrocket/plugins/statusbarcolor"/>
+        <source-file src="src/android/StatusBarColor.java" target-dir="src/com/jptrainor/plugins/statusbarcolor"/>
     </platform>
 </plugin>
