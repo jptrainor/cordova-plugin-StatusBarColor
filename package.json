@@ -1,6 +1,6 @@
 {
   "name": "StatusBarColor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Change the status bar color in Android Lollipop",
   "cordova": {
     "id": "com.jptrainor.plugins.statusbarcolor",
