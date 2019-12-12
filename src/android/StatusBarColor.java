@@ -1,4 +1,4 @@
-package com.internrocket.plugins.statusbarcolor;
+package com.jptrainor.plugins.statusbarcolor;
 
 import android.app.ActivityManager;
 import android.content.Context;
